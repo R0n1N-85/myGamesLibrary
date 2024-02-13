@@ -1,0 +1,52 @@
+[
+  {
+    "consoleType": "PlayStation 4",
+    "name": "The Last of Us",
+    "genre": "Action-Adventure"
+  },
+  {
+    "consoleType": "Xbox One",
+    "name": "Halo 5: Guardians",
+    "genre": "First-person shooter"
+  },
+  {
+    "consoleType": "Nintendo Switch",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Action-Adventure"
+  },
+  {
+    "consoleType": "PC",
+    "name": "The Witcher 3: Wild Hunt",
+    "genre": "Action role-playing"
+  },
+  {
+    "consoleType": "PlayStation 4",
+    "name": "God of War",
+    "genre": "Action-Adventure"
+  },
+  {
+    "consoleType": "Xbox One",
+    "name": "Gears 5",
+    "genre": "Third-person shooter"
+  },
+  {
+    "consoleType": "Nintendo Switch",
+    "name": "Super Mario Odyssey",
+    "genre": "Platformer"
+  },
+  {
+    "consoleType": "PC",
+    "name": "Minecraft",
+    "genre": "Sandbox"
+  },
+  {
+    "consoleType": "PlayStation 4",
+    "name": "Uncharted 4: A Thief's End",
+    "genre": "Action-Adventure"
+  },
+  {
+    "consoleType": "Xbox One",
+    "name": "Forza Horizon 4",
+    "genre": "Racing"
+  }
+]
